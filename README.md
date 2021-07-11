@@ -1,2 +1,2 @@
 # Yuz-Tanima-Sistemi
-#main_people.py çalışır
+#main_people.py works
